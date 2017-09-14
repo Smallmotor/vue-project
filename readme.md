@@ -41,7 +41,7 @@ vue + vuex + vue-router + webpack + es6 + sass + flex
 </figure>
 
 <figure class="third">
-<img src="https://raw.githubusercontent.com/jiaoshibo/images/master/screenshots/04.PNG" width="200px" height="336px"/><img src="https://github.com/jiaoshibo/images/blob/master/screenshots/05.PNG?raw=true" width="200px" height="336px"/><img src="https://raw.githubusercontent.com/jiaoshibo/images/master/screenshots/06.PNG" width="200px" height="336px"/>
+<img src="https://raw.githubusercontent.com/jiaoshibo/images/master/screenshots/04.PNG" width="200px" height="336px"/><img src="https://raw.githubusercontent.com/jiaoshibo/images/master/screenshots/05.PNG" width="200px" height="336px"/><img src="https://raw.githubusercontent.com/jiaoshibo/images/master/screenshots/06.PNG" width="200px" height="336px"/>
 </figure>
 
 # 非商业项目，仅供个人玩耍哦
